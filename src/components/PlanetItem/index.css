@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.slider-container {
+  background-color: #419be0;
+  padding: 40px;
+  margin: 20px;
+  height: 300px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.img-class {
+  width: 150px;
+  height: 200px;
+}
